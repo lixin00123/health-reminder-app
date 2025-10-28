@@ -19,3 +19,6 @@ The **Health Reminder App** helps users develop healthy habits by sending daily 
 - **Frontend 前端**: HTML, CSS, JavaScript  
 - **Backend 后端**: Python Flask  
 - **Database 数据库**: SQLite  
+
+## Update Log
+Added more details about app features.
